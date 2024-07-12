@@ -5,7 +5,7 @@ I am a hardworking, enthusiastic, and dedicated Computer Science student with a 
 ### Social media: 📡    
 You could reach out to me on my socials
 <p>
- <a href="https://www.linkedin.com/in/eli-maxwell-aidam-5944b6268/"><img width="1000" src="assets/linkedin.png" alt="snake" width="55" height="55"/></a>
+ <a href="https://www.linkedin.com/in/eli-maxwell-aidam-5944b6268/"><img width="1000" src="assets/linkedin.png" alt="snake" width="auto" height="55"/></a>
 </p>
 <!-- [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor) -->
 
